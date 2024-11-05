@@ -26,6 +26,7 @@ public class BookService {
 		bookList.add(new Book(102,"Maths",100.50));
 		bookList.add(new Book(103,"Social study",20.50));
 		bookList.add(new Book(104,"Physics",100.50));
+		bookList.add(new Book(104,"Physics2",100.50));
 	}
 	
 
